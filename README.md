@@ -9,3 +9,5 @@
  * python-multipart
  * Pillow
  * Tensorflow-serving-api
+
+Reference: Codebasics(Youtube channel) tutorial for Deep Learning -TensorFlow
